@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "672344922458",
+    "firebase_url": "https://dbdfirebase.firebaseio.com",
+    "project_id": "dbdfirebase",
+    "storage_bucket": "dbdfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672344922458:android:d88e1a0fecedd81d",
+        "android_client_info": {
+          "package_name": "com.chingbros.fire_db"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672344922458-6lrt65cjcn9n7mbvbtc85sj7uel56mla.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chingbros.fire_db",
+            "certificate_hash": "f1816b3289b3442fe00206beddcc8dba9def29c6"
+          }
+        },
+        {
+          "client_id": "672344922458-etc1d5peok0cc5d4av20p346le3metsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRCIUERx7KhzJt1AD2YvWgNT1CplF4EUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672344922458-etc1d5peok0cc5d4av20p346le3metsd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
